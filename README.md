@@ -3,6 +3,8 @@ Table of contents of my github
 
 ## ASP.NET Application
 
+[**AspNetCoreMvc**](https://github.com/janluksoft/AspNetCoreMvc)	ASP.NET Core MVC application with MS-SQL database
+
 [**AspNetRazorLayout**](https://github.com/janluksoft/AspNetRazorLayout)	Create ASP.NET Core Razor Pages using 'Layout.cshtml' pattern
 
 [**AspNetRazorSimplest**](https://github.com/janluksoft/AspNetRazorSimplest)	The simplest Razor-Pages project that can be
@@ -11,6 +13,8 @@ Table of contents of my github
 
 
 ## DataBase application
+
+[**TSqlPivot**](https://github.com/janluksoft/TSqlPivot)	An example of a complex T-SQL query
 
 [**WPFCore6EFSql**](https://github.com/janluksoft/WPFCore6EFSql)		WPF Core .NET6: Entity Framework application for CRUD operations on Microsoft SQL Server 	
 
