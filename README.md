@@ -3,7 +3,11 @@ Table of contents of my github
 
 ## ASP.NET Application
 
-[**AspNetCoreMvc**](https://github.com/janluksoft/AspNetCoreMvc)	ASP.NET Core MVC application with MS-SQL database
+[**AspNetCoreMvc_3EF_Mirabell**](https://github.com/janluksoft/AspNetCoreMvc_3EF_Mirabell)	ASP.NET Core MVC project with EF and MS-SQL database
+
+[**AspNetCoreMvc_2Layout**](https://github.com/janluksoft/AspNetCoreMvc_2Layout)	Simple website project 2 in ASP.NET Core MVC with Layout	
+
+[**AspNetCoreMvc_1Simplest**](https://github.com/janluksoft/AspNetCoreMvc_1Simplest)	This is the simplest ASP.NET Core MVC project that can be	
 
 [**AspNetRazorLayout**](https://github.com/janluksoft/AspNetRazorLayout)	Create ASP.NET Core Razor Pages using 'Layout.cshtml' pattern
 
@@ -35,7 +39,11 @@ Table of contents of my github
 
 
 
-## WinForm window
+## Other topics
+
+[**NET_architecture**](https://github.com/janluksoft/NET_architecture)		My diagram showing the .NET and ambient architecture
+
+[**GIT_UseCases**](https://github.com/janluksoft/GIT_UseCases)		 My diagram showing the use cases of common operations in the GIT environment 
 
 [**WinFormDelegate**](https://github.com/janluksoft/WinFormDelegate)		The project shows how the 'delegate' mechanism works 
 
