@@ -1,6 +1,25 @@
 # Contents
 Table of contents of my github
 
+## React Application
+
+[**React_Npm_TS_MaterialTable**](https://github.com/janluksoft/React_Npm_TS_MaterialTable) React element - GridView: nice MaterialReactTable 
+
+[**React_Npm_TS_NiceClock**](https://github.com/janluksoft/React_Npm_TS_NiceClock) React nice analog/digital clock in TypeScript 
+
+[**React_Npm_TS_Techniques**](https://github.com/janluksoft/React_Npm_TS_Techniques) React elements with TypeScript
+
+[**React_Npm_JS_NiceClock**](https://github.com/janluksoft/React_Npm_JS_NiceClock) React nice analog/digital clock in JavaScript 
+
+[**React_Html_DataGrid**](https://github.com/janluksoft/React_Html_DataGrid) Using an external React element: DataGrid with pagination
+
+[**React_Html_OneFile**](https://github.com/janluksoft/React_Html_OneFile) Simple React elements in one .html file
+
+[**React_Html_JSXfile**](https://github.com/janluksoft/React_Html_JSXfile) Fixed the issue of including js files containing JSX syntax 
+
+[**React_Html_4Elements**](https://github.com/janluksoft/React_Html_4Elements) Defined React element used in several places in the html
+
+
 ## ASP.NET Application
 
 [**AspNetCoreMvc_3EF_Mirabell**](https://github.com/janluksoft/AspNetCoreMvc_3EF_Mirabell)	ASP.NET Core MVC project with EF and MS-SQL database
