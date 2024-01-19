@@ -1,5 +1,8 @@
 # Contents
 Table of contents of my github
+## Angular Application
+
+[**Angular_Components**](https://github.com/janluksoft/Angular_Components) Web-application with nested Angular components 
 
 ## React Application
 
@@ -19,6 +22,9 @@ Table of contents of my github
 
 [**React_Html_4Elements**](https://github.com/janluksoft/React_Html_4Elements) Defined React element used in several places in the html
 
+## Modern web-applications
+
+[**WebApp_Redux**](https://github.com/janluksoft/WebApp_Redux) Redux in Web-App - centralized state manager to mediate action transfers 
 
 ## ASP.NET Application
 
