@@ -7,6 +7,8 @@ Table of contents of my github
 ## Node Application
 [**Node_http_server**](https://github.com/janluksoft/Node_http_server) Node.js: a simple http server without libraries, without Express
 
+[**Node_Express_http_server**](https://github.com/janluksoft/Node_Express_http_server) Node.js: a multipage web app with Express and Hbs
+
 ## React Application
 
 [**React_Npm_TS_MaterialTable**](https://github.com/janluksoft/React_Npm_TS_MaterialTable) React element - GridView: nice MaterialReactTable 
