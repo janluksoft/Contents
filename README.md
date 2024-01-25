@@ -7,7 +7,9 @@ Table of contents of my github
 ## Node Application
 
 [**Node_Express_TS_Pug_table**](https://github.com/janluksoft/Node_Express_TS_Pug_table) Node Express, TS, Pug engine: app displays a table downloaded from the server
+
 [**Node_Express_TS_Hbs_table**](https://github.com/janluksoft/Node_Express_TS_Hbs_table) Node Express, TS, Hbs engine: app displays a table downloaded from the server 
+
 [**Node_Express_TypeScript_starter**](https://github.com/janluksoft/Node_Express_TypeScript_starter) Starter - basic application/description for creating Node Express TypeScript applications
 
 [**Node_Express_http_server**](https://github.com/janluksoft/Node_Express_http_server) Node.js: a multipage web app with Express and Hbs
