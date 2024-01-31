@@ -6,11 +6,19 @@ Table of contents of my github
 
 ## Node Application
 
+[**Node_Express_TS_Postgres**](https://github.com/janluksoft/Node_Express_TS_Postgres) Node Express TS Postgres
+
+[**Node_Express_TS_Rest_Api**](https://github.com/janluksoft/Node_Express_TS_Rest_Api) Node Express TS: Full Rest Api
+
+[**Node_Express_TS_controllers_async**](https://github.com/janluksoft/Node_Express_TS_controllers_async) Node TS async: GET, POST method. File: router, controllers, views;
+
+[**Node_Express_JS_controllers**](https://github.com/janluksoft/Node_Express_JS_controllers) Node JS: GET, POST method. File division into router, controllers, views;
+
 [**Node_Express_TS_Pug_table**](https://github.com/janluksoft/Node_Express_TS_Pug_table) Node Express, TS, Pug engine: app displays a table downloaded from the server
 
 [**Node_Express_TS_Hbs_table**](https://github.com/janluksoft/Node_Express_TS_Hbs_table) Node Express, TS, Hbs engine: app displays a table downloaded from the server 
 
-[**Node_Express_TypeScript_starter**](https://github.com/janluksoft/Node_Express_TypeScript_starter) Starter - basic application/description for creating Node Express TypeScript applications
+[**Node_Express_TypeScript_starter**](https://github.com/janluksoft/Node_Express_TypeScript_starter) Starter - basic app/description for creating Node TypeScript app
 
 [**Node_Express_http_server**](https://github.com/janluksoft/Node_Express_http_server) Node.js: a multipage web app with Express and Hbs
 
@@ -35,6 +43,8 @@ Table of contents of my github
 [**React_Html_4Elements**](https://github.com/janluksoft/React_Html_4Elements) Defined React element used in several places in the html
 
 ## Modern web-applications
+
+[**WebApp_Modal_Windows**](https://github.com/janluksoft/WebApp_Modal_Windows) Sliding, colorful modal windows with shadow for use in a web browser 
 
 [**WebApp_Redux**](https://github.com/janluksoft/WebApp_Redux) Redux in Web-App - centralized state manager to mediate action transfers 
 
