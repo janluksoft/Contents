@@ -6,6 +6,8 @@ Table of contents of my github
 
 ## Node Application
 
+[**Node_Express_TS_MsSql**](https://github.com/janluksoft/Node_Express_TS_MsSql) Node Express TS MsSql
+
 [**Node_Express_TS_Postgres**](https://github.com/janluksoft/Node_Express_TS_Postgres) Node Express TS Postgres
 
 [**Node_Express_TS_Rest_Api**](https://github.com/janluksoft/Node_Express_TS_Rest_Api) Node Express TS: Full Rest Api
@@ -21,6 +23,8 @@ Table of contents of my github
 [**Node_Express_TypeScript_starter**](https://github.com/janluksoft/Node_Express_TypeScript_starter) Starter - basic app/description for creating Node TypeScript app
 
 [**Node_Express_http_server**](https://github.com/janluksoft/Node_Express_http_server) Node.js: a multipage web app with Express and Hbs
+
+[**Node_Web_Scraping_adv**](https://github.com/janluksoft/Node_Web_Scraping_adv) A simple Node scraping application for reading data from websites and generate events
 
 [**Node_Web_Scraping**](https://github.com/janluksoft/Node_Web_Scraping) A simple Node scraping application for reading data from websites
 
