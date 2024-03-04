@@ -170,7 +170,7 @@ Table of contents of my github
             <td></td>
         </tr>
         <tr>
-            <td><a href="https://github.com/janluksoft/AspNet_MasterPages_UserControls"><b>AspNet_MasterPages_UserControls</b></a> <br>ASP.NET WebForm page using the Master-Pages and User-Controls</td>
+            <td><a href="https://github.com/janluksoft/Net_MasterPages_UserControls"><b>AspNet_MasterPages_UserControls</b></a> <br>ASP.NET WebForm page using the Master-Pages and User-Controls</td>
             <td><img src="jpg/Null.png" alt=""/></td>
             <td></td>
         </tr>
