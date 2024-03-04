@@ -50,7 +50,7 @@ Table of contents of my github
 
 ## Modern web-applications
 
-[**WebApp_Modal_Windows**](https://github.com/janluksoft/WebApp_Modal_Windows) Sliding, colorful modal windows with shadow for use in a web browser 
+[**WebApp_Modal_Windows**](https://github.com/janluksoft/WebApp_Modal_Windows) Nice sliding, colorful modal windows with shadow for use in a web browser 
 
 [**WebApp_Redux**](https://github.com/janluksoft/WebApp_Redux) Redux in Web-App - centralized state manager to mediate action transfers 
 
