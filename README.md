@@ -26,9 +26,10 @@ Table of contents of my github
             <td class="pl-mi2"><b>Info</b></td>
         </tr>
         <tr>
-            <td><a href="https://github.com/janluksoft/Node_Express_TS_MsSql"><b>Node_Express_TS_MsSql</b></a> <br>Node Express TS MsSql </td>
-            <td><img src="jpg/Null.png" alt=""/></td>
-            <td></td>
+            <td><a href="https://github.com/janluksoft/Node_Express_TS_MsSql"><b>Node_Express_TS_MsSql</b></a> <br>The Node CRUD MVC app with the Sequelize ORM MsSql framework</td>
+            <td><img src="jpg/Node_Express_TS_MsSql.png" alt=""/><br/><a href="https://github.com/janluksoft/Node_Express_TS_MsSql"><img src="jpg/Film2.png"         alt="movies/gif"/></a>
+            </td>
+            <td><a href="https://github.com/janluksoft/Node_Express_TS_MsSql"><img src="jpg/Node_Express_TS_MsSql_02.png"/></a></td>
         </tr>
         <tr>
             <td><a href="https://github.com/janluksoft/Node_Express_TS_Postgres"><b>Node_Express_TS_Postgres  </b></a> <br>Node Express TS Postgres </td>
@@ -109,7 +110,7 @@ Table of contents of my github
         <tr>
             <td><a href="https://github.com/janluksoft/React_Npm_JS_NiceClock"><b>React_Npm_JS_NiceClock  </b></a> <br>React nice analog/digital clock in </td>
             <td><img src="jpg/React_Npm_JS_NiceClock.png" alt=""/></td>
-            <td></td>
+            <td><a href="https://github.com/janluksoft/React_Npm_JS_NiceClock"><img src="jpg/React_Npm_JS_NiceClock_02.png"/></a></td>
         </tr>
         <tr>
             <td><a href="https://github.com/janluksoft/React_Html_DataGrid"><b>React_Html_DataGrid</b></a> <br>Using an external React element: DataGrid with pagination</td>
@@ -156,8 +157,8 @@ Table of contents of my github
         </tr>
         <tr>
             <td><a href="https://github.com/janluksoft/AspNetCoreMvc_3EF_Mirabell"><b>AspNetCoreMvc_3EF_Mirabell</b></a> <br>ASP.NET Core MVC project with EF and MS-SQL database</td>
-            <td><img src="jpg/Null.png" alt=""/></td>
-            <td></td>
+            <td><img src="jpg/AspNetCoreMvc_3EF_Mirabell.png" alt=""/></td>
+            <td><a href="https://github.com/janluksoft/AspNetCoreMvc_3EF_Mirabell"><img src="jpg/AspNetCoreMvc_3EF_Mirabell_02.png"/></a></td>
         </tr>
         <tr>
             <td><a href="https://github.com/janluksoft/AspNetCoreMvc_2Layout"><b>AspNetCoreMvc_2Layout</b></a> <br>Simple website project 2 in ASP.NET Core MVC with Layout</td>
@@ -170,7 +171,7 @@ Table of contents of my github
             <td></td>
         </tr>
         <tr>
-            <td><a href="https://github.com/janluksoft/Net_MasterPages_UserControls"><b>AspNet_MasterPages_UserControls</b></a> <br>ASP.NET WebForm page using the Master-Pages and User-Controls</td>
+            <td><a href="https://github.com/janluksoft/AspNet_MasterPages_UserControls"><b>AspNet_MasterPages_UserControls</b></a> <br>ASP.NET WebForm page using the Master-Pages and User-Controls</td>
             <td><img src="jpg/Null.png" alt=""/></td>
             <td></td>
         </tr>
@@ -237,6 +238,3 @@ Table of contents of my github
 
 [**VisualStudio2019Setup**](https://github.com/janluksoft/VisualStudio2019Setup)	Visual Studio 2019 setup colors	
 
-
-
-Bububu
