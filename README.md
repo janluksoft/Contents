@@ -7,6 +7,23 @@ Table of contents of my github
 
 <table>
     <tbody>
+        <tr><td colspan=3> <h2 style="color:green">DevOps</h2></td></tr>
+        <tr>
+            <td class="pl-mi2"><b>Application</b></td>
+            <td class="pl-mi2"><b>Languages</b></td>
+            <td class="pl-mi2"><b>Info</b></td>
+        </tr>
+        <tr>
+            <td><a href="https://github.com/janluksoft/DevOps_Kubertenes_POD"><b>DevOps_Kubertenes_POD</b></a> <br>Creating Node, POD and containers for web app in Kubertenes </td>
+            <td><img src="jpg/Docker1.png" alt=""/></td>
+            <td><img src="jpg/Dockub_logo.png" alt=""/></td>
+        </tr>
+        <tr>
+            <td><a href="https://github.com/janluksoft/DevOps_Docker_app"><b>DevOps_Docker_app</b></a> <br>Node web app with image configuration in Docker </td>
+            <td><img src="jpg/Docker1.png" alt=""/></td>
+            <td><img src="jpg/Docker_logo.png" alt=""/></td>
+        </tr>
+        <tr><td colspan=3> </td></tr>
         <tr><td colspan=3> <h2 style="color:green">Angular Applications <img src="jpg/Ico_Angular.png"/></h2></td></tr>
         <tr>
             <td class="pl-mi2"><b>Application</b></td>
