@@ -154,7 +154,7 @@ Table of contents of my github
             <td></td>
         </tr>
         <!-- ========= AI Artificial Intelligence ======================= -->
-        <tr><td colspan=3> <h2 style="color:green">AI Artificial Intelligence <img height="36px" src="jpg/Robot3_33r.png"/></h2></td></tr>
+        <tr><td colspan=3> <h2 style="color:green">AI Artificial Intelligence &nbsp;&nbsp;<img height="60px" src="jpg/Robot3_33r.png"/></h2></td></tr>
         <tr>
             <td class="pl-mi2"><b>Application</b></td>
             <td class="pl-mi2"><b>Languages</b></td>
