@@ -17,117 +17,44 @@ Table of contents of my github
         <tr><td colspan=3><h3> <b>Articles:</b>:  Software Development from Low-Level Methods to .NET</h3></td>
         </tr>
         <tr>
-            <td>
-                <table  border="0">
-                    <tr>
-                        <td>✅</td>
-                        <td>
-                        <a href="https://github.com/janluksoft/NET_MemoryLeak"><b>NET_MemoryLeak</b></a> <br>
-                            .NET Memory leaks under C#
-                        </td>
-                    </tr>
-                </table>
-            </td>
+            <td>✅ <a href="https://github.com/janluksoft/NET_MemoryLeak"><b> NET_MemoryLeak</b></a> <br>.NET Memory leaks under C#</td>
             <td><img src="jpg/100_Csharp.png" alt=""/></td>
             <td></td> 
         </tr>
         <tr>
-            <td>
-                <table  border="0">
-                    <tr>
-                        <td>✅</td>
-                        <td><a href="https://github.com/janluksoft/NET_CLR_RAM"><b>NET_CLR_RAM</b></a> <br>
-                            .NET Framework CLR dump REM memory
-                        </td>
-                    </tr>
-                </table>
-            </td>
+            <td>✅ <a href="https://github.com/janluksoft/NET_CLR_RAM"><b>NET_CLR_RAM</b></a> <br>.NET Framework CLR dump REM memory</td>
             <td><img src="jpg/100_Csharp.png" alt=""/></td>
             <td><img src="jpg/Cn_dump.png" alt=""/></td> 
         </tr>
         <tr>
-            <td>
-                <table  border="0">
-                    <tr>
-                        <td>✅</td>
-                        <td><a href="https://github.com/janluksoft/NET_ExecutionModel"><b>NET_ExecutionModel</b></a> <br>
-                            .NET CLR execution model; Two-stage .NET application model
-                        </td>
-                    </tr>
-                </table>
-            </td>
-            <td></td>
-            <td><img src="jpg/CLR_model.png" alt=""/></td>
+            <td>✅ <a href="https://github.com/janluksoft/NET_ExecutionModel"><b> NET_ExecutionModel</b></a> <br>.NET CLR execution model; Two-stage .NET application model</td>
+            <td><img src="jpg/100_Csharp.png" alt=""/></td>
+            <td><img src="jpg/CLR_model2.png" alt=""/></td> 
         </tr>
         <tr>
-            <td>
-                <table  border="0">
-                    <tr>
-                        <td>✅</td>
-                        <td><a href="https://github.com/janluksoft/NET_Types"><b>NET_Types</b></a> <br>
-                            Data types in .NET (CTS and CLS)
-                        </td>
-                    </tr>
-                </table>
-            </td>
+            <td>✅ <a href="https://github.com/janluksoft/NET_Types"><b> NET_Types</b></a> <br>Data types in .NET (CTS and CLS)</td>
             <td></td>
-            <td><img src="jpg/Cn_type.png" alt=""/></td>
+            <td><img src="jpg/Cn_type.png" alt=""/></td> 
         </tr>
         <tr>
-            <td>
-                <table  border="0">
-                    <tr>
-                        <td>✅</td>
-                        <td><a href="https://github.com/janluksoft/NET_architecture"><b>NET_architecture</b></a> <br>
-                        Diagram showing the .NET and ambient architecture
-                        </td>
-                    </tr>
-                </table>
-            </td>
+            <td>✅ <a href="https://github.com/janluksoft/NET_architecture"><b> NET_architecture</b></a> <br>Diagram showing the .NET and ambient architecture</td>
             <td></td>
-            <td><img src="jpg/NET_Arch3.png" alt=""/></td>
+            <td><img src="jpg/NET_Arch3.png" alt=""/></td> 
         </tr>
         <tr>
-            <td>
-                <table  border="0">
-                    <tr>
-                        <td>✅</td>
-                        <td><a href="https://github.com/janluksoft/InMemory_PE_Format"><b>InMemory_PE_Format</b></a> <br>
-                            High-level language C++ (PE format in RAM)
-                        </td>
-                    </tr>
-                </table>
-            </td>
-            <td><img src="jpg/100_Cpp2.png" alt=""/></td>
-            <td></td>
+            <td>✅ <a href="https://github.com/janluksoft/InMemory_PE_Format"><b> InMemory_PE_Format</b></a> <br>High-level language C++ (PE format in RAM)</td>
+            <td><img src="jpg/100_Cpp2.png"/></td>
+            <td></td> 
         </tr>
         <tr>
-            <td>
-                <table  border="0">
-                    <tr>
-                        <td> ✅ </td>
-                        <td><a href="https://github.com/janluksoft/InMemory_Assembler"><b>InMemory_Assembler</b></a> <br>
-                            Direct CPU programming - assembler
-                        </td>
-                    </tr>
-                </table>
-            </td>
-            <td><img src="jpg/100_Asm2.png" alt=""/></td>
-            <td></td>
+            <td>✅ <a href="https://github.com/janluksoft/InMemory_Assembler"><b> InMemory_Assembler</b></a> <br>Direct CPU programming - assembler</td>
+            <td><img src="jpg/100_Asm2.png"/></td>
+            <td></td> 
         </tr>
         <tr>
-            <td>
-                <table  border="0">
-                    <tr>
-                        <td> ✅ </td>
-                        <td><a href="https://github.com/janluksoft/InMemory_DigitalCircuits"><b>InMemory_DigitalCircuits</b></a> <br>
-                            Non-programmable digital circuits
-                        </td>
-                    </tr>
-                </table>
-            </td>
+            <td>✅ <a href="https://github.com/janluksoft/InMemory_DigitalCircuits"><b> InMemory_DigitalCircuits</b></a> <br>Non-programmable digital circuits</td>
             <td></td>
-            <td></td>
+            <td></td> 
         </tr>
         <tr><td colspan=3> <h2>🔷 C# language</h2></td></tr>
         <tr>
@@ -226,17 +153,29 @@ Table of contents of my github
             <td><img src="jpg/Null.png" alt=""/></td>
             <td></td>
         </tr>
-        <!-- ========= Azure ========================================== -->
-        <tr><td colspan=3> <h2 style="color:green">Azure <img height="30px" src="jpg/Azure_logo3.png"/></h2></td></tr>
+        <!-- ========= AI Artificial Intelligence ======================= -->
+        <tr><td colspan=3> <h2 style="color:green">AI Artificial Intelligence <img height="36px" src="jpg/Robot3_33r.png"/></h2></td></tr>
         <tr>
             <td class="pl-mi2"><b>Application</b></td>
             <td class="pl-mi2"><b>Languages</b></td>
             <td class="pl-mi2"><b>Info</b></td>
         </tr>
         <tr>
+            <td><a href="https://github.com/janluksoft/Azure_AIFunctions"> <b>Azure_AIFunctions</b></a> <br>Technique .NET 9 OpenAI - Function Calling; My www GPT chat</td>
+            <td><img src="jpg/100_Csharp.png"/></td>
+            <td><img src="jpg/My_chat_GPT.png"/></td>
+        </tr>
+        <tr>
             <td><a href="https://github.com/janluksoft/Azure_OpenAI"><b>Azure_OpenAI</b></a> <br>AI services available for .NET on Azure</td>
+            <td><img src="jpg/100_Csharp.png"/></td>
             <td></td>
-            <td></td>
+        </tr>
+        <!-- ========= Azure ========================================== -->
+        <tr><td colspan=3> <h2 style="color:green">Azure <img height="30px" src="jpg/Azure_logo3.png"/></h2></td></tr>
+        <tr>
+            <td class="pl-mi2"><b>Application</b></td>
+            <td class="pl-mi2"><b>Languages</b></td>
+            <td class="pl-mi2"><b>Info</b></td>
         </tr>
         <tr>
             <td><a href="https://github.com/janluksoft/Azure_NetService"><b>Azure_NetService</b></a> <br>Azure Services available for .NET</td>
