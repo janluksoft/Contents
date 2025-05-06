@@ -101,7 +101,7 @@ Table of contents of my github
 
 <table>
     <tbody>
-        <!-- ======================================================= -->
+        <!-- =============ASP.NET ==================================== -->
         <tr><td colspan=3> <h2>ASP.NET Applications</h2></td></tr>
         <tr>
             <td class="pl-mi2"><b>Application</b></td>
@@ -124,18 +124,28 @@ Table of contents of my github
             <td></td>
         </tr>
         <tr>
+            <td><a href="https://github.com/janluksoft/Node_Express_TS_Rest_Api"><b>AspNet_RestAPI</b></a> <br>RESTful API WebAPI in .NET 8; Swagger testing</td>
+            <td><img src="jpg/100_Csharp.png"/></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td><a href="https://github.com/janluksoft/AspNet_WebAPI"><b>AspNet_WebAPI</b></a> <br>Simple WebAPI application in .NET 8</td>
+            <td><img src="jpg/100_Csharp.png"/></td>
+            <td></td>
+        </tr>
+        <tr>
             <td><a href="https://github.com/janluksoft/AspNet_MasterPages_UserControls"><b>AspNet_MasterPages_UserControls</b></a> <br>ASP.NET WebForm page using the Master-Pages and User-Controls</td>
-            <td><img src="jpg/Null.png" alt=""/></td>
+            <td><img src="jpg/Null.png"/></td>
             <td></td>
         </tr>
         <tr>
             <td><a href="https://github.com/janluksoft/AspNetRazorLayout"><b>AspNetRazorLayout</b></a> <br>Create ASP.NET Core Razor Pages using 'Layout.cshtml' pattern </td>
-            <td><img src="jpg/Null.png" alt=""/></td>
+            <td><img src="jpg/Null.png"/></td>
             <td></td>
         </tr>
         <tr>
             <td><a href="https://github.com/janluksoft/AspNetRazorSimplest"><b>AspNetRazorSimplest</b></a> <br>The simplest Razor-Pages project that can be</td>
-            <td><img src="jpg/Null.png" alt=""/></td>
+            <td><img src="jpg/Null.png"/></td>
             <td></td>
         </tr>
         <tr>
