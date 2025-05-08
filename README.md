@@ -22,7 +22,7 @@ Table of contents of my github
             <td></td> 
         </tr>
         <tr>
-            <td>✅ <a href="https://github.com/janluksoft/NET_CLR_RAM"><b>NET_CLR_RAM</b></a> <br>.NET Framework CLR dump REM memory</td>
+            <td>✅ <a href="https://github.com/janluksoft/NET_CLR_RAM"><b>NET_CLR_RAM</b></a> <br>.NET Framework CLR dump RAM memory</td>
             <td><img src="jpg/100_Csharp.png" alt=""/></td>
             <td><img src="jpg/Cn_dump.png" alt=""/></td> 
         </tr>
