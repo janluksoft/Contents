@@ -102,7 +102,7 @@ Table of contents of my github
 <table>
     <tbody>
         <!-- =============ASP.NET ==================================== -->
-        <tr><td colspan=3> <h2>ASP.NET Applications</h2></td></tr>
+        <tr><td colspan=3> <h2 id="idAspNet">ASP.NET Applications</h2></td></tr>
         <tr>
             <td class="pl-mi2"><b>Application</b></td>
             <td class="pl-mi2"><b>Languages</b></td>
@@ -128,13 +128,23 @@ Table of contents of my github
             <td><img src="jpg/100_Csharp.png"/></td>
             <td></td>
         </tr>
-        <tr>
+        <tr> 
+            <td><a href="https://github.com/janluksoft/RestApi_Postman"><b>RestApi_Postman</b></a> <br>Real support for the EasyPost REST API service (UPS, FedEx, DpD)</td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr> RestApi_Postman
             <td><a href="https://github.com/janluksoft/Node_Express_TS_Rest_Api"><b>AspNet_RestAPI</b></a> <br>RESTful API WebAPI in .NET 8; Swagger testing</td>
             <td><img src="jpg/100_Csharp.png"/></td>
             <td></td>
         </tr>
         <tr>
             <td><a href="https://github.com/janluksoft/AspNet_WebAPI"><b>AspNet_WebAPI</b></a> <br>Simple WebAPI application in .NET 8</td>
+            <td><img src="jpg/100_Csharp.png"/></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td><a href="https://github.com/janluksoft/AspNet_SOAP"><b>AspNet_SOAP</b></a> <br>SOAP communication (.NET + Postman)</td>
             <td><img src="jpg/100_Csharp.png"/></td>
             <td></td>
         </tr>
@@ -169,11 +179,16 @@ Table of contents of my github
             <td></td>
         </tr>
         <!-- ========= AI Artificial Intelligence ======================= -->
-        <tr><td colspan=3> <h2 style="color:green">AI Artificial Intelligence &nbsp;&nbsp;<img height="60px" src="jpg/Robot3_33r.png"/></h2></td></tr>
+        <tr><td colspan=3> <h2 id="idAI" style="color:green">AI Artificial Intelligence &nbsp;&nbsp;<img height="60px" src="jpg/Robot3_33r.png"/></h2></td></tr>
         <tr>
             <td class="pl-mi2"><b>Application</b></td>
             <td class="pl-mi2"><b>Languages</b></td>
             <td class="pl-mi2"><b>Info</b></td>
+        </tr>
+        <tr>
+            <td><a href="https://github.com/janluksoft/Azure_AI_Vision"> <b>Azure_AI_Vision</b></a> <br>Technique .NET 9 OpenAI: Vision: Image processing</td>
+            <td><img src="jpg/100_Csharp.png"/></td>
+            <td></td>
         </tr>
         <tr>
             <td><a href="https://github.com/janluksoft/Azure_AIFunctions"> <b>Azure_AIFunctions</b></a> <br>Technique .NET 9 OpenAI - Function Calling; My www GPT chat</td>
@@ -186,11 +201,21 @@ Table of contents of my github
             <td></td>
         </tr>
         <!-- ========= Azure ========================================== -->
-        <tr><td colspan=3> <h2 style="color:green">Azure <img height="30px" src="jpg/Azure_logo3.png"/></h2></td></tr>
+        <tr><td colspan=3> <h2 id="idAzure" style="color:green">Azure <img height="30px" src="jpg/Azure_logo3.png"/></h2></td></tr>
         <tr>
             <td class="pl-mi2"><b>Application</b></td>
             <td class="pl-mi2"><b>Languages</b></td>
             <td class="pl-mi2"><b>Info</b></td>
+        </tr>
+        <tr>
+            <td><a href="https://github.com/janluksoft/Azure_Functions_DHL"><b>Azure_Functions_DHL</b></a> <br>Azure Function: Automatic ordering of EasyPost (UPS, FedEx, DpD)</td>
+            <td><img src="jpg/100_Csharp.png"/></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td><a href="https://github.com/janluksoft/Azure_Functions"><b>Azure_Functions</b></a> <br>Azure Functions: timer and html trigger via e-mail</td>
+            <td><img src="jpg/100_Csharp.png"/></td>
+            <td></td>
         </tr>
         <tr>
             <td><a href="https://github.com/janluksoft/Azure_NetService"><b>Azure_NetService</b></a> <br>Azure Services available for .NET</td>
