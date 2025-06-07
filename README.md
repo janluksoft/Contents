@@ -186,6 +186,11 @@ Table of contents of my github
             <td class="pl-mi2"><b>Info</b></td>
         </tr>
         <tr>
+            <td><a href="https://github.com/janluksoft/Azure_AI_DocInteli"> <b>Azure_AI_DocInteli</b></a> <br>Azure Document Intelligence — Invoice Reader (.NET)</td>
+            <td><img src="jpg/100_Csharp.png"/></td>
+            <td></td>
+        </tr>
+        <tr>
             <td><a href="https://github.com/janluksoft/Azure_AI_Vision"> <b>Azure_AI_Vision</b></a> <br>Technique .NET 9 OpenAI: Vision: Image processing</td>
             <td><img src="jpg/100_Csharp.png"/></td>
             <td></td>
