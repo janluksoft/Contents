@@ -186,7 +186,13 @@ Table of contents of my github
             <td class="pl-mi2"><b>Info</b></td>
         </tr>
         <tr>
-            <td><a href="https://github.com/janluksoft/Azure_AI_DocInteli"> <b>Azure_AI_DocInteli</b></a> <br>Azure Document Intelligence — Invoice Reader (.NET)</td>
+            <td><a href="https://github.com/janluksoft/Azure_AI_VoiceAssistant"> <b>Azure_AI_VoiceAssistant</b></a> <br>Azure AI Voice Language Assistant</td>
+            <td><img src="jpg/058_JavaScript.png"/><br/>
+            <a href="https://github.com/janluksoft/Azure_AI_VoiceAssistant"><img src="jpg/Film2.png" /></a></td>
+            <td><a href="https://github.com/janluksoft/Azure_AI_VoiceAssistant"><img src="jpg/VoiceAssistant1.png"/></a></td>
+        </tr>
+        <tr>
+            <td><a href="https://github.com/janluksoft/Azure_AI_InvoiceRead"> <b>Azure_AI_DocInteli</b></a> <br>Azure Document Intelligence — Invoice Reader (.NET)</td>
             <td><img src="jpg/100_Csharp.png"/></td>
             <td></td>
         </tr>
@@ -198,7 +204,7 @@ Table of contents of my github
         <tr>
             <td><a href="https://github.com/janluksoft/Azure_AIFunctions"> <b>Azure_AIFunctions</b></a> <br>Technique .NET 9 OpenAI - Function Calling; My www GPT chat</td>
             <td><img src="jpg/100_Csharp.png"/></td>
-            <td><img src="jpg/My_chat_GPT.png"/></td>
+            <td><a href="https://github.com/janluksoft/Azure_AIFunctions"><img src="jpg/My_chat_GPT.png"/></a></td>
         </tr>
         <tr>
             <td><a href="https://github.com/janluksoft/Azure_OpenAI"><b>Azure_OpenAI</b></a> <br>AI services available for .NET on Azure</td>
